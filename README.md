@@ -23,7 +23,7 @@ _Remember to use `fs` to read the data files!_
 
 6. Add a GET `/api/books/:bookId/author` (e.g. `/api/books/1/author`) parametric endpoint that responds with a status 200 and a JSON author object for the specified book. The JSON object should have a key of `author` with a value of a single author object from the `./data/authors.json` file.
 
-### Even More Challenges
+## Even More Challenges
 
 7. Add some error handling to your server. What should it respond with if you receive a request for a bookId that doesn't exist? What status code should you respond with?
 
