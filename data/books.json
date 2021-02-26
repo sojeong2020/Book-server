@@ -1,92 +1,92 @@
 [
   {
     "bookId": 1,
-    "book": "The Hitchhiker's Guide to the Galaxy",
-    "authorId": "Douglas Adams",
+    "bookTitle": "The Hitchhiker's Guide to the Galaxy",
+    "authorId": 3,
     "fiction": true
   },
   {
     "bookId": 2,
-    "book": "The Little Prince",
-    "authorId": "Antoine de Saint-Exupéry",
+    "bookTitle": "The Little Prince",
+    "authorId": 2,
     "fiction": true
   },
   {
     "bookId": 3,
-    "book": "The Tale of Peter Rabbit",
-    "authorId": "Beatrix Potter",
+    "bookTitle": "The Tale of Peter Rabbit",
+    "authorId": 7,
     "fiction": true
   },
   {
     "bookId": 4,
-    "book": "Emma",
-    "authorId": "Jane Austen",
+    "bookTitle": "Emma",
+    "authorId": 14,
     "fiction": true
   },
   {
     "bookId": 5,
-    "book": "Nineteen Eighty-Four: A Novel",
-    "authorId": "George Orwell",
+    "bookTitle": "Nineteen Eighty-Four: A Novel",
+    "authorId": 13,
     "fiction": true
   },
   {
     "bookId": 6,
-    "book": "The Handmaid's Tale",
-    "authorId": "Margaret Atwood",
+    "bookTitle": "The Handmaid's Tale",
+    "authorId": 15,
     "fiction": true
   },
   {
     "bookId": 7,
-    "book": "The War of the Worlds",
-    "authorId": "H. G. Wells",
+    "bookTitle": "The War of the Worlds",
+    "authorId": 12,
     "fiction": true
   },
   {
     "bookId": 8,
-    "book": "Captain Corelli's Mandolin",
-    "authorId": "Louis de Bernières",
+    "bookTitle": "Captain Corelli's Mandolin",
+    "authorId": 11,
     "fiction": true
   },
   {
     "bookId": 9,
-    "book": "Dune",
-    "authorId": "Frank Herbert",
+    "bookTitle": "Dune",
+    "authorId": 10,
     "fiction": true
   },
   {
     "bookId": 10,
-    "book": "Charlie and the Chocolate Factory",
-    "authorId": "Roald Dahl",
+    "bookTitle": "Charlie and the Chocolate Factory",
+    "authorId": 9,
     "fiction": true
   },
   {
     "bookId": 11,
-    "book": "The Lion, the and the Wardrobe",
-    "authorId": "C. S. Lewis",
+    "bookTitle": "The Lion, the and the Wardrobe",
+    "authorId": 8,
     "fiction": true
   },
   {
     "bookId": 12,
-    "book": "The Very Hungry Caterpillar",
-    "authorId": "Eric Carle",
+    "bookTitle": "The Very Hungry Caterpillar",
+    "authorId": 5,
     "fiction": true
   },
   {
     "bookId": 13,
-    "book": "The Catcher in the Rye",
-    "authorId": "J. D. Salinger",
+    "bookTitle": "The Catcher in the Rye",
+    "authorId": 6,
     "fiction": true
   },
   {
     "bookId": 14,
-    "book": "A Brief History of Time",
-    "authorId": "Stephen Hawking",
+    "bookTitle": "A Brief History of Time",
+    "authorId": 4,
     "fiction": false
   },
   {
     "bookId": 15,
-    "book": "The Da Vinci Code",
-    "authorId": "Dan Brown",
+    "bookTitle": "The Da Vinci Code",
+    "authorId": 1,
     "fiction": true
   }
 ]
