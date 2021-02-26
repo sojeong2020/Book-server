@@ -1,12 +1,12 @@
 # Book Server
 
-Today we will be building our very first `http` server!
+Today we will be building our very first **http** server!
 
 _Remember to use `fs` to read the data files!_
 
 ## Challenges
 
-1. Using Node's `https` module create a web server that responds with a status 200 and a greeting when it receives a GET request on the path `/api` (e.g. `{ message: "Hello! }`)
+1. Create a new file called `server.js` and using Node's `https` module create a web server that responds with a status 200 and a greeting when it receives a GET request on the path `/api` (e.g. `{ message: "Hello! }`)
 
 2. Add a GET `/api/books` endpoint that responds with a status 200 and a JSON object, that has a key of `books` with a value of the array of books from the `./data/books.json` file.
 
