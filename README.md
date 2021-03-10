@@ -27,4 +27,4 @@ _Remember to use `fs` to read the data files!_
 
 7. Add some error handling to your server. What should it respond with if you receive a request for a bookId that doesn't exist? What status code should you respond with?
 
-8. Add a `fiction` query parameter to your GET `/api/books` endpoint (e.g.) `/api/books?fiction=true` or `/api/books?fiction=false`) that searches for books that are either fiction, or non-fiction.
+8. Add a `fiction` query parameter to your GET `/api/books` endpoint (e.g. `/api/books?fiction=true` or `/api/books?fiction=false`) that searches for books that are either fiction, or non-fiction.
