@@ -25,8 +25,12 @@ _Remember to use `fs` to read the data files!_
 
 ## Even More Challenges
 
-7. Add some error handling to your server. What should it respond with if you receive a request for a bookId that doesn't exist? What status code should you respond with?
+7. Add error-handling to your GET `/api/books/:bookId` and `/api/books/:bookId/author` endpoints. Think about what should happen if a request is made for a book that doesn't exist. What status code should be sent?
 
 8. Add a `fiction` query parameter to your GET `/api/books` endpoint (e.g. `/api/books?fiction=true` or `/api/books?fiction=false`) that searches for books that are either fiction, or non-fiction.
 
-9. Research the MVC (Model-View-Controller) pattern, [this article](https://www.freecodecamp.org/news/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053/) is a good place to start. Then try to refactor your server to have separate functions for your **models** and **controllers** (we don't have "views" at the moment)
+9. Add error-handling to your POST `/api/books` endpoint. Think about what should happen if a request is made without including enough information on the body of the request. What status code should be sent?
+
+10. Add error-handling to your GET `/api/books` endpoint. Think about what should happen if an invalid query is used, e.g. `?fiction=banana`. What status code should be sent?
+
+10. Research the MVC (Model-View-Controller) pattern, [this article](https://www.freecodecamp.org/news/model-view-controller-mvc-explained-through-ordering-drinks-at-the-bar-efcba6255053/) is a good place to start. Then try to refactor your server to have separate functions for your **models** and **controllers** (we don't have "views" at the moment)
