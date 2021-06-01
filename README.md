@@ -2,7 +2,7 @@
 
 Today we will be building our very first **http** server!
 
-_Remember to use `fs` to read the data files!_
+_Remember to use `fs` to read the data files!_ (And please use the standard callback version of the `fs` library for this sprint!)
 
 ## Challenges
 
