@@ -10,7 +10,7 @@ _Remember to use `fs` to read the data files!_ (And please use the standard call
 
 2. Add a GET `/api/books` endpoint that responds with a status 200 and a JSON object, that has a key of `books` with a value of the array of books from the `./data/books.json` file.
 
-3. Add a GET `/api/authors` endpoint that responds with a status 200 and a JSON object, that has a key of `authors` with a value of the array of books from the `./data/authors.json` file.
+3. Add a GET `/api/authors` endpoint that responds with a status 200 and a JSON object, that has a key of `authors` with a value of the array of authors from the `./data/authors.json` file.
 
 ## More Challenges
 
